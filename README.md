@@ -18,8 +18,15 @@
 
 ✅Data Engineering Bootcamp - How Education
 
-As a data analyst, I bring skills in Python, SQL, Excel, and Power BI, with expertise in Pandas, NumPy, and Plotly libraries. My capabilities encompass efficient data manipulation, precise statistical analyses, and the creation of interactive visualizations. In the realm of Business Intelligence, I specialize in developing dynamic dashboards and reports in Power BI, integrating diverse data sources to provide actionable insights. With a focus on data quality and accuracy, I contribute to informed decision-making and project success.
-I also have experience in maintenance management (PCM), project management, leadership in engineering and technical teams, development and analysis of operational and financial KPIs, CAPEX and OPEX management, technical training, process development, flowcharts, and technical procedures, quality control, preparation of technical reports, and BM - measurement bulletins. I have participated in the development of automation control projects using programming languages such as Python, C++, SQL, and artificial neural networks.
+I bring a strong technical foundation in Python, SQL, Excel, and Power BI, along with advanced expertise in libraries such as Pandas, NumPy, and Plotly. I excel in efficient data manipulation, detailed statistical analyses, and the development of interactive visualizations.
+
+In the realm of Business Intelligence, I specialize in creating dynamic dashboards and insightful reports in Power BI, seamlessly integrating diverse data sources to deliver actionable insights. My focus on data quality and accuracy ensures informed decision-making and project success.
+
+I have hands-on experience with Azure and Databricks, where I designed and implemented scalable data pipelines and orchestrated workflows for efficient data processing in the cloud. My expertise includes building structured Data Lakes, managing Delta Lake formats, and automating ETL processes to maintain up-to-date, reliable datasets.
+
+Beyond data analytics, my experience spans maintenance management (PCM), project management, team leadership in engineering and technical fields, and the development of operational and financial KPIs. I am proficient in CAPEX and OPEX management, technical training, process development, flowchart creation, and quality control, including the preparation of technical reports and BM (measurement bulletins).
+
+Additionally, I have contributed to automation and control projects, leveraging programming languages such as Python, C++, and SQL, and incorporating artificial neural networks to drive innovation and efficiency.
 
 </a>
 </div>
